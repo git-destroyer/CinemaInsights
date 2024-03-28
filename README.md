@@ -31,7 +31,7 @@
    ```bash
    $ git clone https://github.com/git-destroyer/CinemaInsights.git 
    ```
-2. Скачать `title.basics.tsv.gz` и `title.rating.tsv.gz` по [ссылке](https://developer.imdb.com/non-commercial-datasets/)
+2. Скачать `title.basics.tsv.gz` и `title.rating.tsv.gz` по [ссылке](https://datasets.imdbws.com/)
 3. Извлечь `title.basics.tsv` и `title.basics.tsv` в репозиторий.
 4. Открыть Jupyter Notebook `Итоговый_проект- Фам Тхэ Ань.ipynb` и выполнить код по шагам.
 
