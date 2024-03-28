@@ -1,0 +1,2 @@
+# CinemaInsights
+Итоговый проект
