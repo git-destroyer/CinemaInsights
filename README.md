@@ -25,14 +25,18 @@
 
 ## Инструкции по использованию
 
-Для запуска анализа необходимо:
+Для запуска проекта необходимо:
+1. Установить приложение `Git Bash` [отсюда](https://git-scm.com/download/win), если его еще нет на комьютере.
 
-1. Склонировать репозиторий с проектом:
+1. Открыть приложение, и написать в консоли:
    ```bash
-   $ git clone https://github.com/git-destroyer/CinemaInsights.git 
+   git clone https://github.com/git-destroyer/CinemaInsights.git 
    ```
+1. Проект будет установлен в `C:\Users\Ваше имя пользователя\CinemaInsights`
 2. Скачать `title.basics.tsv.gz` и `title.rating.tsv.gz` по [ссылке](https://datasets.imdbws.com/)
-3. Извлечь `title.basics.tsv` и `title.basics.tsv` в репозиторий.
+3. Извлечь `title.basics.tsv` и `title.basics.tsv` из архивов.
+![img.png](img.png)
+4. Перенести `title.basics.tsv` и `title.basics.tsv` в папку `C:\Users\Ваше имя пользователя\CinemaInsights`
 4. Открыть Jupyter Notebook `Итоговый_проект- Фам Тхэ Ань.ipynb` и выполнить код по шагам.
 
 ## Лицензия
